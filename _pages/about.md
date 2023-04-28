@@ -11,4 +11,4 @@ redirect_from:
 Hi there!
 I am a first year student in the PhD program in Economics and Finance at Bocconi University. I got a Master of Science in Economics at University of Pisa while pursuing the honors program at Sant'Anna School of Advanced Studies. I was research assistant in both the public and the private sector, studying topics that range from asset pricing to monetary economics, and I worked in financial markets supervision.
 
-My main research interests are markets micro-structure and efficiency as well as macro-finance.
+My main research interests lie in financial markets design and efficiency, as well as in empirical methods for Economics.
