@@ -42,5 +42,21 @@
 /* nasconde l’hamburger in alto a destra */
 .greedy-nav__toggle { display: none !important; }
 </style>
+<style>
+/* nasconde il bottone hamburger in TUTTI i casi */
+.masthead .greedy-nav__toggle,
+.greedy-nav__toggle,
+.greedy-nav__toggle .navicon,
+button.greedy-nav__toggle[aria-label="Toggle Navigation"] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+}
+</style>
 
 <!-- end custom head snippets -->
