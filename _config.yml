@@ -115,6 +115,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:leonardo.flori@phd.unibocconi.it"
+
 
 
 # Reading Files
