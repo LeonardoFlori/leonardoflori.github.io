@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: "Working papers"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-To be updated soon!
+<!-- List of papers here -->
+- **Remittance markets: markups versus currency risk** (with N. Limodio)
