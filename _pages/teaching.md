@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
----
+
 I have been involved in the following teaching activities at Bocconi University: 
 
 ## 🧑‍🏫 Instructor
