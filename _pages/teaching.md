@@ -9,7 +9,7 @@ author_profile: true
 
 
 ---
-I have been involved in the following teaching activities at Bocconi University - the course code and the academic year are listed as well. 
+I have been involved in the following teaching activities at Bocconi University: 
 
 ## 🧑‍🏫 Instructor
 <span style="font-size: 0.9em;">
