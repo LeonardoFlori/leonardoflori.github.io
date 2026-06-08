@@ -14,6 +14,7 @@ I have been involved in the following teaching activities at Bocconi University:
 ## 🧑‍🏫 Instructor
 <span style="font-size: 0.9em;">
 
+- **Introduction to Finance** - Bocconi Summer School, a.y. 2025/2026
 - **Microeconomics** - 30065 CLEACC, a.y. 2023/2024, 2024/2025, 2025/2026
 - **Microeconomics** - 30065 BIEM, a.y. 2025/2026
 
