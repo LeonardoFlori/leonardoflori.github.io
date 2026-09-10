@@ -11,12 +11,12 @@ author_profile: true
 
 I have been involved in the following teaching activities at Bocconi University: 
 
-<h2>🎓 Lecturer</h2>
+<h2 style="margin-bottom: 0.5em;">🎓 Lecturer</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; margin-top: 0;">
 
   <div style="font-size: 0.9em; flex: 1;">
-    <ul>
+    <ul style="margin-top: 0;">
       <li>
         <strong>Introduction to Finance</strong> - 30502, Bocconi Summer School, a.y. 2025/2026
       </li>
@@ -48,6 +48,7 @@ I have been involved in the following teaching activities at Bocconi University:
   </div>
 
 </div>
+
 ---
 
 ## 🧑‍🏫 Instructor
