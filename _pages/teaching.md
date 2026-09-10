@@ -13,7 +13,13 @@ I have been involved in the following teaching activities at Bocconi University:
 
 ## 🎓 Lecturer
 <span style="font-size: 0.9em;">
-
+<p style="font-size: 0.9em; margin-bottom: 1.5em;">
+  Average teaching evaluation:
+  <strong style="background: #f2f2f2; padding: 4px 9px; border-radius: 5px;">
+    9.2 / 10
+  </strong>
+</p>
+  
 - **Introduction to Finance** - 30502, Bocconi Summer School, a.y. 2025/2026
 
 ---
@@ -21,8 +27,8 @@ I have been involved in the following teaching activities at Bocconi University:
 ## 🧑‍🏫 Instructor
 <span style="font-size: 0.9em;">
 
-- **Microeconomics** - 30065 (CLEACC), a.y. 2023/2024, 2024/2025, 2025/2026
-- **Microeconomics** - 30065 (BIEM), a.y. 2025/2026
+- **Microeconomics** - 30065 (CLEACC), a.y. 2023/2024, 2024/2025, 2025/2026, 2026/2027
+- **Microeconomics** - 30065 (BIEM), a.y. 2025/2026, 2026/2027
 
 ---
 
