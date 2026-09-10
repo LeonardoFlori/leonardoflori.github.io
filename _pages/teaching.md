@@ -58,7 +58,7 @@ I have been involved in the following teaching activities at Bocconi University:
       margin-top: 4px;
       color: #555;
     ">
-      Teaching evaluation
+      Average teaching evaluation
     </div>
 
   </div>
