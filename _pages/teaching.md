@@ -13,10 +13,10 @@ I have been involved in the following teaching activities at Bocconi University:
 
 <h2 style="margin-bottom: 0.3em;">🎓 Lecturer</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; margin-top: 0;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 30px; margin-top: 0;">
 
   <div style="font-size: 0.9em; flex: 1;">
-    <ul style="margin-top: 0;">
+    <ul style="margin-top: 0; padding-top: 0;">
       <li>
         <strong>Introduction to Finance</strong> - 30502, Bocconi Summer School, a.y. 2025/2026
       </li>
@@ -43,7 +43,7 @@ I have been involved in the following teaching activities at Bocconi University:
       margin-top: 4px;
       color: #555;
     ">
-      Average teaching evaluation
+      Teaching evaluation
     </div>
   </div>
 
