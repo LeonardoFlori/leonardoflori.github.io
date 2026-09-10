@@ -11,17 +11,43 @@ author_profile: true
 
 I have been involved in the following teaching activities at Bocconi University: 
 
-## 🎓 Lecturer
-<span style="font-size: 0.9em;">
-<p style="font-size: 0.9em; margin-bottom: 1.5em;">
-  Average teaching evaluation:
-  <strong style="background: #f2f2f2; padding: 4px 9px; border-radius: 5px;">
-    9.2 / 10
-  </strong>
-</p>
-  
-- **Introduction to Finance** - 30502, Bocconi Summer School, a.y. 2025/2026
+<h2>🎓 Lecturer</h2>
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+
+  <div style="font-size: 0.9em; flex: 1;">
+    <ul>
+      <li>
+        <strong>Introduction to Finance</strong> - 30502, Bocconi Summer School, a.y. 2025/2026
+      </li>
+    </ul>
+  </div>
+
+  <div style="
+    background: #eef8f0;
+    padding: 18px 28px;
+    border-radius: 8px;
+    text-align: center;
+    min-width: 190px;
+  ">
+    <div style="
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #26733b;
+    ">
+      9.2 / 10
+    </div>
+
+    <div style="
+      font-size: 0.75em;
+      margin-top: 4px;
+      color: #555;
+    ">
+      Average teaching evaluation
+    </div>
+  </div>
+
+</div>
 ---
 
 ## 🧑‍🏫 Instructor
