@@ -11,7 +11,7 @@ author_profile: true
 
 I have been involved in the following teaching activities at Bocconi University: 
 
-<h2 style="margin-bottom: 0.5em;">🎓 Lecturer</h2>
+<h2 style="margin-bottom: 0.3em;">🎓 Lecturer</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; margin-top: 0;">
 
