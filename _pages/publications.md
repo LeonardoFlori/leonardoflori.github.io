@@ -8,4 +8,4 @@ author_profile: true
 {% include base_path %}
 
 <!-- List of papers here -->
-- **Remittance markets: markups versus currency risk**, with N. Limodio [Draft coming soon!]
+- **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
