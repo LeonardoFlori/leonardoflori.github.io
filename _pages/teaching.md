@@ -126,8 +126,6 @@ I have been involved in the following teaching activities at Bocconi University:
 
 ---
 
----
-
 ## 📚 Teaching Assistant
 <span style="font-size: 0.9em;">
 
