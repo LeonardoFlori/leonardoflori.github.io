@@ -9,6 +9,7 @@ author_profile: true
 
 <!-- List of papers here -->
 - **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
+{% comment %}
 <details style="margin-top: 0.5em; margin-bottom: 1.5em; margin-left: 1.5em;">
   <summary style="
     cursor: pointer;
@@ -41,3 +42,4 @@ author_profile: true
     to the contribution of mark-ups.
   </p>
 </details>
+{% endcomment %}
