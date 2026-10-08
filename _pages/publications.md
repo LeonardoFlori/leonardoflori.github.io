@@ -10,7 +10,7 @@ author_profile: true
 <!-- List of papers here -->
 - **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
 
-  [↗ J-PAL Blog Post](https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk)
+<a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk" target="_blank" rel="noopener noreferrer">↗ J-PAL Blog Post</a>
   
 <details style="margin-top: 0.5em; margin-bottom: 1.5em; margin-left: 1.5em;">
   <summary style="
