@@ -13,12 +13,23 @@ author_profile: true
 
 <div style="margin-left: 3em; margin-top: -0.5em;">
 
-  <a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="font-size: 0.9em;">
-    ↗ J-PAL Blog Post
-  </a>
+  
+<a href="https://www.dropbox.com/scl/fi/zvpifi15kvqj14ruuvakw/flori_limodio_fx_risk_remittance.pdf?rlkey=e2vqd1ngwli8ajtno7137a89i&amp;e=2&amp;dl=0"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="font-size: 0.9em;">
+  ↗ Draft
+</a>
+
+<span style="margin: 0 10px; color: #aaa;">|</span>
+
+<a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="font-size: 0.9em;">
+  ↗ J-PAL Blog Post
+</a>
+
 
   <details style="margin-top: 0.5em; margin-bottom: 1.5em;">
 
