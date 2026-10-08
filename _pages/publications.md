@@ -11,7 +11,7 @@ author_profile: true
 - **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
 
 
-<div style="margin-left: 3em; margin-top: 0.5em;">
+<div style="margin-left: 3em; margin-top: 0em;">
 
   <a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
      target="_blank"
