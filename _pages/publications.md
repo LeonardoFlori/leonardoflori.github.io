@@ -9,7 +9,8 @@ author_profile: true
 
 <!-- List of papers here -->
 - **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
-{% comment %}
+
+
 <details style="margin-top: 0.5em; margin-bottom: 1.5em; margin-left: 1.5em;">
   <summary style="
     cursor: pointer;
@@ -26,20 +27,6 @@ author_profile: true
     margin-top: 0.8em;
     text-align: justify;
   ">
-    Money transfer operators quote international remittance fees before acquiring
-    the destination currency, so the foreign currency risk raises their marginal
-    cost of delivery whenever hedging is incomplete. We formalize this channel
-    and test it using 35,489 cash-to-cash products across 342 corridors from 2011
-    to 2024. Remittance fees move with exchange rate volatility, as a measure of
-    foreign currency risk. We establish this using conditional variation across
-    corridors and the quasi-experimental increase in volatility on third-party
-    currencies that followed the Swiss National Bank’s decision to abandon the
-    franc’s euro floor in 2015. Operators raise the exchange rate margin rather
-    than the fixed fee. The increase is largest where hedging markets are thin
-    and operators are geographically concentrated, and it is followed by lower
-    profits and by exit. A structural model attributes 10 to 25 percent of
-    remittance prices to currency risk, with these magnitudes being comparable
-    to the contribution of mark-ups.
+    We study the role of foreign currency risk in remittance markets, and its consequences for fees and market structure. Because operators quote fees before settling transfers, exchange rate risk that is costly to hedge in thin currency markets enters their marginal cost, keeping fees high even in competitive corridors. We test this using 34,680 cash-to-cash products across 339 corridors between 2011 and 2024. We find that fees rise with currency risk, both in conditional variation across corridors and after a volatility shock originating outside the corridor, exploiting the Swiss National Bank's 2015 abandonment of the franc's euro floor and subsequent carry trade reversal. Operators respond by adjusting the variable fee rather than the fixed one, especially in thin hedging markets and for operators geographically concentrated. Currency risk also lowers operator profits and induces corridor exit. A structural model attributes 16 percent of remittance fees to currency risk, comparable to the contribution of market power.
   </p>
 </details>
-{% endcomment %}
