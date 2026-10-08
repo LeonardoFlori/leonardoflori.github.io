@@ -10,7 +10,8 @@ author_profile: true
 <!-- List of papers here -->
 - **The Foreign Currency Risk of International Remittance Markets**, with N. Limodio [Draft coming soon!]
 
-
+  [↗ J-PAL Blog Post](https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk)
+  
 <details style="margin-top: 0.5em; margin-bottom: 1.5em; margin-left: 1.5em;">
   <summary style="
     cursor: pointer;
@@ -29,4 +30,4 @@ author_profile: true
   ">
     We study the role of foreign currency risk in remittance markets, and its consequences for fees and market structure. Because operators quote fees before settling transfers, exchange rate risk that is costly to hedge in thin currency markets enters their marginal cost, keeping fees high even in competitive corridors. We test this using 34,680 cash-to-cash products across 339 corridors between 2011 and 2024. We find that fees rise with currency risk, both in conditional variation across corridors and after a volatility shock originating outside the corridor, exploiting the Swiss National Bank's 2015 abandonment of the franc's euro floor and subsequent carry trade reversal. Operators respond by adjusting the variable fee rather than the fixed one, especially in thin hedging markets and for operators geographically concentrated. Currency risk also lowers operator profits and induces corridor exit. A structural model attributes 16 percent of remittance fees to currency risk, comparable to the contribution of market power.
   </p>
-</details>\
+</details>
