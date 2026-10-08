@@ -14,9 +14,7 @@ author_profile: true
 
 <div style="margin-left: 2.5em; margin-top: 0.5em; font-size: 0.9em;">
 
-<a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk" target="_blank" rel="noopener noreferrer">
-  ↗ J-PAL Blog Post
-</a>
+
 
   <details style="margin-top: 0.6em; margin-bottom: 1.5em;">
 
