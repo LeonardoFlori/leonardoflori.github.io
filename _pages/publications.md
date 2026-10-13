@@ -23,6 +23,15 @@ author_profile: true
 
 <span style="margin: 0 10px; color: #aaa;">|</span>
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7600423"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="font-size: 0.9em;">
+  ↗ BAFFI Working Paper
+</a>
+
+<span style="margin: 0 10px; color: #aaa;">|</span>
+
 <a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
    target="_blank"
    rel="noopener noreferrer"
