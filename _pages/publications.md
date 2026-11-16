@@ -39,33 +39,30 @@ author_profile: true
   ↗ CEPR Working Paper
 </a>
 
-<span style="margin: 0 10px; color: #aaa;">|</span>
+ <div style="margin-top: 0.6em;">
 
-<a href="https://cepr.org/voxeu/columns/currency-risk-drives-remittance-fees-much-markups-do"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="font-size: 0.9em;">
-  ↗ VoxEU
-</a>
+    <span style="color: #aaa; margin: 0 5px;">·</span>
 
+    <a href="https://cepr.org/voxeu/columns/currency-risk-drives-remittance-fees-much-markups-do"
+       target="_blank" rel="noopener noreferrer">
+      VoxEU
+    </a>
 
-<span style="margin: 0 10px; color: #aaa;">|</span>
+    <span style="color: #aaa; margin: 0 5px;">·</span>
 
-<a href="https://voxdev.org/topic/finance/currency-risk-drives-remittance-fees-much-markups-do"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="font-size: 0.9em;">
-  ↗ VoxDev
-</a>
+    <a href="https://voxdev.org/topic/finance/currency-risk-drives-remittance-fees-much-markups-do"
+       target="_blank" rel="noopener noreferrer">
+      VoxDev
+    </a>
+    
+    <strong style="color: #555;">Media coverage:</strong>
 
-<span style="margin: 0 10px; color: #aaa;">|</span>
+    <a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
+       target="_blank" rel="noopener noreferrer">
+      J-PAL
+    </a>
 
-<a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="font-size: 0.9em;">
-  ↗ J-PAL Blog Post
-</a>
+  </div>
 
 
   <details style="margin-top: 0.5em; margin-bottom: 1.5em;">
