@@ -41,7 +41,7 @@ author_profile: true
 
  <div style="margin-top: 0.6em;">
 
-    <span style="color: #aaa; margin: 0 5px;">·</span>
+    <strong style="color: #555;">Media coverage:</strong>
 
     <a href="https://cepr.org/voxeu/columns/currency-risk-drives-remittance-fees-much-markups-do"
        target="_blank" rel="noopener noreferrer">
@@ -55,7 +55,7 @@ author_profile: true
       VoxDev
     </a>
     
-    <strong style="color: #555;">Media coverage:</strong>
+    <span style="color: #aaa; margin: 0 5px;">·</span>
 
     <a href="https://www.povertyactionlab.org/blog/3-31-26/where-international-finance-meets-development-role-currency-risk"
        target="_blank" rel="noopener noreferrer">
