@@ -41,7 +41,9 @@ author_profile: true
 
  <div style="margin-top: 0.6em;">
 
-    <strong style="color: #555;">Media coverage:</strong>
+<span style="color: #888; font-weight: 400;">
+  Media coverage:
+</span>
 
     <a href="https://cepr.org/voxeu/columns/currency-risk-drives-remittance-fees-much-markups-do"
        target="_blank" rel="noopener noreferrer">
