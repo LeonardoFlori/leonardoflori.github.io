@@ -41,7 +41,7 @@ author_profile: true
 
  <div style="margin-top: 0.6em;">
 
-<span style="color: #888; font-weight: 400;">
+<span style="color: #888; font-weight: 400; margin-right: 8px;">
   Media coverage:
 </span>
 
